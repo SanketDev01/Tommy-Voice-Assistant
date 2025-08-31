@@ -18,5 +18,5 @@ Tommy is a personal AI voice assistant built with Python. It provides a hands-fr
 * **pyttsx3:** Generates voice responses.
 * **webbrowser:** Opens web pages andHow to UseHow tClone the repository:epository:**
 `bash
-git clone https:
+git clone https: https://github.com/SanketDev01/Tommy-Voice-Assistant
 cd Tommy-Voice-Assistant
